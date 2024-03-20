@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:54127448230:android:04aee65569e661be952467",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.instagramclone"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBiyq3481G77OB_JX8paLIaDPQhNwVwQqQ"
+          "current_key": "YOUR_KEY"
         }
       ],
       "services": {
